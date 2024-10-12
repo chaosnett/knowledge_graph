@@ -1,6 +1,5 @@
-from CountryNode import CountryNode
-from IndustryNode import IndustryNode
-from RelationshipNode import RelationshipNode
+from knowledge_graph.Nodes.CountryNode import CountryNode
+from knowledge_graph.Nodes.IndustryNode import IndustryNode
 
 def main():
     c = CountryNode("USA", 1)

@@ -5,11 +5,11 @@ import uuid
 class Node(ABC):
     def __init__(self, name):
         self.name = name
-        self.id = uuid()
+        self.id = uuid.uuid4()
         self.node_type = self.get_node_type()
 
     @abstractmethod    
-    def get_node_type():
+    def get_node_type(self):
         pass
     
     def __repr__(self):
