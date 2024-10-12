@@ -22,10 +22,10 @@ class AbstractGraph(ABC):
         pass
 
     @abstractmethod
-    def build_adj_matrix(self):
-        pass
-
-    @abstractmethod
     def print_graph(self):
         pass
 
+    
+    @abstractmethod
+    def build_adjacency_matrix(self):
+        pass
