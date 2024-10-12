@@ -1,14 +1,11 @@
-from RelationshipNode import RelationshipNode
+from knowledge_graph.Abstract_Relationships.ExportRelationship import ExportRelationship
 
-class ExportProductRelationship(RelationshipNode):
-    def __init__(self, name, relationship_id, product, to_country, from_country):
-        super().__init__(name, relationship_id)
-        self.product = product  
-        self.to_country = to_country   
-        self.from_country = from_country
+class ExportProductRelationship(ExportRelationship):
+    def __init__(self, name):
+        super().__init__(name)
 
-    def relationship_details(self):
-        return f"Exporting from {self.from_country} to {self.to_country}"
 
-    def process_export(self):
-        print(f"Exporting product: {self.product}")
+    # conduct math here?
+
+    # need to have something that outputs what is being exported?
+
