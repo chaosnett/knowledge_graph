@@ -9,6 +9,6 @@
     "build": "source .venv/bin/activate && pip install -r requirements.txt",
     "clean": "rm -rf data && find . -name '*.csv' -type f -delete && find . -name '*.xls' -type f -delete",
     "process-data": "bash process-data.sh",
-    "preprocess": "yarn clean && mkdir data data/exports/usa data/imports/usa source .venv/bin/activate && python3 preprocess.py"
+    "preprocess": "yarn clean && mkdir data data/exports data/imports data/exports/usa data/imports/usa && source .venv/bin/activate && python3 preprocess.py"
   }
 }
