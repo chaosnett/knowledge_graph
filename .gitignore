@@ -1,12 +1,36 @@
+# Ignore data files
 data/
-data 
-
 *.xls
 *.csv
 
+# Ignore virtual environment directories
 .venv/
 .venv
 
+# Ignore Node.js modules
+node_modules/
+node_modules
 
-node_modules
-node_modules
+# Ignore Python cache files and directories
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore pycache variations
+pycache/
+*.pyo
+*.pyd
+*.cpython*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore environment files
+.env
