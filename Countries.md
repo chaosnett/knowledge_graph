@@ -1,0 +1,23 @@
+# List of Processed Countries
+
+- Afghanistan
+- Australia
+- Belgium
+- Bhutan
+- China
+- Denmark
+- France
+- Ghana
+- Greenland
+- India
+- Israel
+- Japan
+- Mexico
+- Nepal
+- Spain
+- Switzerland
+- Taiwan
+- UnitedKingdom
+- Vietnam
+- Yemen
+- Zambia

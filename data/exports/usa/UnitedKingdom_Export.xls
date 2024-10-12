@@ -1,0 +1,596 @@
+	<table cellspacing="0" cellpadding="4" rules="all" border="1" id="ctl00_PageContent_MyGridView1" style="color:#002B54;border-color:#002B54;width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-size:80%;font-weight:bold;">
+			<th rowspan="2" scope="col">Product code</th><th rowspan="2" scope="col">Product label</th><td id="ctl00_PageContent_MyGridView1_ctl101_HeaderColspan_Bilateral" align="center" colspan="3">United States of America's exports to United Kingdom</td><td id="ctl00_PageContent_MyGridView1_ctl101_HeaderColspan_Partner" align="center" colspan="4">United Kingdom's imports from world</td><td id="ctl00_PageContent_MyGridView1_ctl101_HeaderColspan_Reporter" align="center" colspan="4">United States of America's exports to world</td>
+		</tr><tr style="color:White;background-color:#5D7B9D;font-size:80%;font-weight:bold;">
+			<th scope="col">Value in 2021</th><th scope="col">Value in 2022</th><th scope="col">Value in 2023</th><th scope="col"> </th><th scope="col">Value in 2021</th><th scope="col">Value in 2022</th><th scope="col">Value in 2023</th><th scope="col"> </th><th scope="col">Value in 2021</th><th scope="col">Value in 2022</th><th scope="col">Value in 2023</th>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            'TOTAL
+                                </td><td align="left" style="width:20%;">All products</td><td title="Direct Data">61425144</td><td title="Direct Data">77300938</td><td title="Direct Data">74089917</td><td style="width:1%;"></td><td>695578289</td><td>816299884</td><td>791855405</td><td style="width:1%;">
+
+</td><td>1754300368</td><td>2062937261</td><td>2019159665</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '27
+                                </td><td align="left" style="width:20%;">Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral <b>...</b></td><td title="Direct Data">8220103</td><td title="Direct Data">20235993</td><td title="Direct Data">13339668</td><td style="width:1%;"></td><td>70319341</td><td>137224495</td><td>92425936</td><td style="width:1%;">
+
+</td><td>240348491</td><td>378564312</td><td>323170542</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '71
+                                </td><td align="left" style="width:20%;">Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad <b>...</b></td><td title="Direct Data">13064897</td><td title="Direct Data">10531020</td><td title="Direct Data">9953021</td><td style="width:1%;"></td><td>82498594</td><td>60727566</td><td>63205631</td><td style="width:1%;">
+
+</td><td>82367398</td><td>92470876</td><td>76672348</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '88
+                                </td><td align="left" style="width:20%;">Aircraft, spacecraft, and parts thereof</td><td title="Direct Data">6094390</td><td title="Direct Data">8123790</td><td title="Direct Data">8803844</td><td style="width:1%;"></td><td>6271729</td><td>8783395</td><td>14991213</td><td style="width:1%;">
+
+</td><td>89518426</td><td>102849540</td><td>124909470</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '84
+                                </td><td align="left" style="width:20%;">Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof</td><td title="Direct Data">5373280</td><td title="Direct Data">5767460</td><td title="Direct Data">6181019</td><td style="width:1%;"></td><td>80226103</td><td>89639990</td><td>97377165</td><td style="width:1%;">
+
+</td><td>209410339</td><td>229594065</td><td>233009959</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '30
+                                </td><td align="left" style="width:20%;">Pharmaceutical products</td><td title="Direct Data">4162509</td><td title="Direct Data">5629055</td><td title="Direct Data">5503307</td><td style="width:1%;"></td><td>27047223</td><td>33145429</td><td>27304657</td><td style="width:1%;">
+
+</td><td>77849066</td><td>83492755</td><td>90308213</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '85
+                                </td><td align="left" style="width:20%;">Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television <b>...</b></td><td title="Direct Data">3737720</td><td title="Direct Data">4342959</td><td title="Direct Data">5152834</td><td style="width:1%;"></td><td>62482014</td><td>66760809</td><td>74032978</td><td style="width:1%;">
+
+</td><td>185778022</td><td>197748997</td><td>200654689</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '99
+                                </td><td align="left" style="width:20%;">Commodities not elsewhere specified</td><td title="Direct Data">2515497</td><td title="Direct Data">3103213</td><td title="Direct Data">3394513</td><td style="width:1%;"></td><td>9504017</td><td>24995877</td><td>28420443</td><td style="width:1%;">
+
+</td><td>49130835</td><td>62957556</td><td>67359995</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '97
+                                </td><td align="left" style="width:20%;">Works of art, collectors' pieces and antiques</td><td title="Direct Data">2188048</td><td title="Direct Data">2512746</td><td title="Direct Data">2860251</td><td style="width:1%;"></td><td>1871549</td><td>2776698</td><td>2332302</td><td style="width:1%;">
+
+</td><td>8679821</td><td>11022556</td><td>11126131</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '90
+                                </td><td align="left" style="width:20%;">Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical <b>...</b></td><td title="Direct Data">2547899</td><td title="Direct Data">2835344</td><td title="Direct Data">2760046</td><td style="width:1%;"></td><td>18726146</td><td>21884941</td><td>23562448</td><td style="width:1%;">
+
+</td><td>91627571</td><td>99053192</td><td>105107609</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '29
+                                </td><td align="left" style="width:20%;">Organic chemicals</td><td title="Direct Data">1018742</td><td title="Direct Data">987278</td><td title="Direct Data">2516852</td><td style="width:1%;"></td><td>11627336</td><td>14284140</td><td>12902036</td><td style="width:1%;">
+
+</td><td>43083944</td><td>51063345</td><td>51730963</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '39
+                                </td><td align="left" style="width:20%;">Plastics and articles thereof</td><td title="Direct Data">1455858</td><td title="Direct Data">1634213</td><td title="Direct Data">1380409</td><td style="width:1%;"></td><td>21288886</td><td>22647790</td><td>19662740</td><td style="width:1%;">
+
+</td><td>74313449</td><td>83283461</td><td>77796411</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '87
+                                </td><td align="left" style="width:20%;">Vehicles other than railway or tramway rolling stock, and parts and accessories thereof</td><td title="Direct Data">1430928</td><td title="Direct Data">1308264</td><td title="Direct Data">1266561</td><td style="width:1%;"></td><td>64143931</td><td>73546597</td><td>90056038</td><td style="width:1%;">
+
+</td><td>122827854</td><td>134886249</td><td>152826672</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '44
+                                </td><td align="left" style="width:20%;">Wood and articles of wood; wood charcoal</td><td title="Direct Data">891546</td><td title="Direct Data">1134148</td><td title="Direct Data">1252628</td><td style="width:1%;"></td><td>10260443</td><td>9549953</td><td>8208499</td><td style="width:1%;">
+
+</td><td>9743086</td><td>10439488</td><td>9505752</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '33
+                                </td><td align="left" style="width:20%;">Essential oils and resinoids; perfumery, cosmetic or toilet preparations</td><td title="Direct Data">796784</td><td title="Direct Data">806689</td><td title="Direct Data">848661</td><td style="width:1%;"></td><td>6331422</td><td>6835025</td><td>7599828</td><td style="width:1%;">
+
+</td><td>13578568</td><td>14249645</td><td>14951439</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '38
+                                </td><td align="left" style="width:20%;">Miscellaneous chemical products</td><td title="Direct Data">1110932</td><td title="Direct Data">993077</td><td title="Direct Data">834568</td><td style="width:1%;"></td><td>13215499</td><td>10023573</td><td>7673108</td><td style="width:1%;">
+
+</td><td>36893596</td><td>41189143</td><td>38635587</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '22
+                                </td><td align="left" style="width:20%;">Beverages, spirits and vinegar</td><td title="Direct Data">473941</td><td title="Direct Data">539269</td><td title="Direct Data">733059</td><td style="width:1%;"></td><td>9307218</td><td>10418641</td><td>10599208</td><td style="width:1%;">
+
+</td><td>8460677</td><td>10139208</td><td>9930612</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '73
+                                </td><td align="left" style="width:20%;">Articles of iron or steel</td><td title="Direct Data">422317</td><td title="Direct Data">468331</td><td title="Direct Data">490364</td><td style="width:1%;"></td><td>10639316</td><td>11553770</td><td>10844981</td><td style="width:1%;">
+
+</td><td>19291439</td><td>22006888</td><td>22722824</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '81
+                                </td><td align="left" style="width:20%;">Other base metals; cermets; articles thereof</td><td title="Direct Data">240392</td><td title="Direct Data">316397</td><td title="Direct Data">454682</td><td style="width:1%;"></td><td>845748</td><td>1076801</td><td>1233486</td><td style="width:1%;">
+
+</td><td>2374517</td><td>2948134</td><td>3281494</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '28
+                                </td><td align="left" style="width:20%;">Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, <b>...</b></td><td title="Direct Data">164974</td><td title="Direct Data">189282</td><td title="Direct Data">390960</td><td style="width:1%;"></td><td>2212823</td><td>3254735</td><td>2838632</td><td style="width:1%;">
+
+</td><td>13499059</td><td>16837864</td><td>15010743</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '49
+                                </td><td align="left" style="width:20%;">Printed books, newspapers, pictures and other products of the printing industry; manuscripts, <b>...</b></td><td title="Direct Data">407925</td><td title="Direct Data">378236</td><td title="Direct Data">381964</td><td style="width:1%;"></td><td>1866170</td><td>1916412</td><td>1680098</td><td style="width:1%;">
+
+</td><td>4209947</td><td>4245569</td><td>4079717</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '75
+                                </td><td align="left" style="width:20%;">Nickel and articles thereof</td><td title="Direct Data">206590</td><td title="Direct Data">303869</td><td title="Direct Data">379427</td><td style="width:1%;"></td><td>1136739</td><td>1547008</td><td>1755836</td><td style="width:1%;">
+
+</td><td>2204622</td><td>3142630</td><td>4071617</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '26
+                                </td><td align="left" style="width:20%;">Ores, slag and ash</td><td title="Direct Data">169807</td><td title="Direct Data">178317</td><td title="Direct Data">321623</td><td style="width:1%;"></td><td>2761300</td><td>2705422</td><td>2692098</td><td style="width:1%;">
+
+</td><td>8488980</td><td>8565365</td><td>8103305</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '95
+                                </td><td align="left" style="width:20%;">Toys, games and sports requisites; parts and accessories thereof</td><td title="Direct Data">317323</td><td title="Direct Data">348408</td><td title="Direct Data">308844</td><td style="width:1%;"></td><td>8309499</td><td>8071213</td><td>7339892</td><td style="width:1%;">
+
+</td><td>6789420</td><td>7386133</td><td>7603164</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '94
+                                </td><td align="left" style="width:20%;">Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; <b>...</b></td><td title="Direct Data">225157</td><td title="Direct Data">247160</td><td title="Direct Data">253385</td><td style="width:1%;"></td><td>14305158</td><td>14543852</td><td>12539323</td><td style="width:1%;">
+
+</td><td>9277421</td><td>10087139</td><td>10055768</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '40
+                                </td><td align="left" style="width:20%;">Rubber and articles thereof</td><td title="Direct Data">228408</td><td title="Direct Data">253074</td><td title="Direct Data">241507</td><td style="width:1%;"></td><td>6479655</td><td>5961862</td><td>5678583</td><td style="width:1%;">
+
+</td><td>13153623</td><td>14656598</td><td>14646521</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '76
+                                </td><td align="left" style="width:20%;">Aluminium and articles thereof</td><td title="Direct Data">162833</td><td title="Direct Data">205430</td><td title="Direct Data">231372</td><td style="width:1%;"></td><td>5411217</td><td>6760602</td><td>5965488</td><td style="width:1%;">
+
+</td><td>12033895</td><td>14511112</td><td>14277975</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '68
+                                </td><td align="left" style="width:20%;">Articles of stone, plaster, cement, asbestos, mica or similar materials</td><td title="Direct Data">178797</td><td title="Direct Data">205067</td><td title="Direct Data">230893</td><td style="width:1%;"></td><td>2301780</td><td>2476581</td><td>2432135</td><td style="width:1%;">
+
+</td><td>3853827</td><td>4288233</td><td>4354265</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '48
+                                </td><td align="left" style="width:20%;">Paper and paperboard; articles of paper pulp, of paper or of paperboard</td><td title="Direct Data">252767</td><td title="Direct Data">263909</td><td title="Direct Data">221570</td><td style="width:1%;"></td><td>7110294</td><td>9401190</td><td>8112775</td><td style="width:1%;">
+
+</td><td>15357618</td><td>16984547</td><td>14967434</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '08
+                                </td><td align="left" style="width:20%;">Edible fruit and nuts; peel of citrus fruit or melons</td><td title="Direct Data">190656</td><td title="Direct Data">174991</td><td title="Direct Data">179307</td><td style="width:1%;"></td><td>6428098</td><td>6090293</td><td>6153455</td><td style="width:1%;">
+
+</td><td>15061750</td><td>14756429</td><td>14865303</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '93
+                                </td><td align="left" style="width:20%;">Arms and ammunition; parts and accessories thereof</td><td title="Direct Data">155873</td><td title="Direct Data">205389</td><td title="Direct Data">174482</td><td style="width:1%;"></td><td>799377</td><td>785105</td><td>1003072</td><td style="width:1%;">
+
+</td><td>4245180</td><td>4877955</td><td>5770286</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '21
+                                </td><td align="left" style="width:20%;">Miscellaneous edible preparations</td><td title="Direct Data">224110</td><td title="Direct Data">199426</td><td title="Direct Data">168292</td><td style="width:1%;"></td><td>3706082</td><td>4392663</td><td>4758471</td><td style="width:1%;">
+
+</td><td>10487862</td><td>10459069</td><td>10272263</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '83
+                                </td><td align="left" style="width:20%;">Miscellaneous articles of base metal</td><td title="Direct Data">145563</td><td title="Direct Data">155204</td><td title="Direct Data">163063</td><td style="width:1%;"></td><td>3066651</td><td>3097893</td><td>3089851</td><td style="width:1%;">
+
+</td><td>4983597</td><td>5697372</td><td>5840037</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '23
+                                </td><td align="left" style="width:20%;">Residues and waste from the food industries; prepared animal fodder</td><td title="Direct Data">114555</td><td title="Direct Data">97458</td><td title="Direct Data">162937</td><td style="width:1%;"></td><td>3626078</td><td>4089307</td><td>4288335</td><td style="width:1%;">
+
+</td><td>13119396</td><td>14756163</td><td>15822093</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '82
+                                </td><td align="left" style="width:20%;">Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal</td><td title="Direct Data">162507</td><td title="Direct Data">151528</td><td title="Direct Data">154494</td><td style="width:1%;"></td><td>2104475</td><td>2046555</td><td>1874267</td><td style="width:1%;">
+
+</td><td>4759263</td><td>5077957</td><td>4963181</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '12
+                                </td><td align="left" style="width:20%;">Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal <b>...</b></td><td title="Direct Data">132535</td><td title="Direct Data">180132</td><td title="Direct Data">148569</td><td style="width:1%;"></td><td>1681743</td><td>2001632</td><td>1737715</td><td style="width:1%;">
+
+</td><td>33042608</td><td>40194577</td><td>33904016</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '34
+                                </td><td align="left" style="width:20%;">Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial <b>...</b></td><td title="Direct Data">188909</td><td title="Direct Data">157228</td><td title="Direct Data">132564</td><td style="width:1%;"></td><td>3002020</td><td>3264105</td><td>3205335</td><td style="width:1%;">
+
+</td><td>7686222</td><td>8440859</td><td>8004948</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '72
+                                </td><td align="left" style="width:20%;">Iron and steel</td><td title="Direct Data">65817</td><td title="Direct Data">99135</td><td title="Direct Data">129285</td><td style="width:1%;"></td><td>7836199</td><td>7798986</td><td>6674508</td><td style="width:1%;">
+
+</td><td>18675764</td><td>20891807</td><td>20463485</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '70
+                                </td><td align="left" style="width:20%;">Glass and glassware</td><td title="Direct Data">121382</td><td title="Direct Data">120296</td><td title="Direct Data">124065</td><td style="width:1%;"></td><td>2660010</td><td>2737646</td><td>2719588</td><td style="width:1%;">
+
+</td><td>5651743</td><td>6093142</td><td>6154191</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '35
+                                </td><td align="left" style="width:20%;">Albuminoidal substances; modified starches; glues; enzymes</td><td title="Direct Data">138404</td><td title="Direct Data">143870</td><td title="Direct Data">119572</td><td style="width:1%;"></td><td>1003113</td><td>1300895</td><td>1287670</td><td style="width:1%;">
+
+</td><td>4685907</td><td>5203359</td><td>5315815</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '61
+                                </td><td align="left" style="width:20%;">Articles of apparel and clothing accessories, knitted or crocheted</td><td title="Direct Data">90236</td><td title="Direct Data">98091</td><td title="Direct Data">116824</td><td style="width:1%;"></td><td>12078169</td><td>13780660</td><td>11184452</td><td style="width:1%;">
+
+</td><td>3030769</td><td>3492789</td><td>3394027</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '32
+                                </td><td align="left" style="width:20%;">Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring <b>...</b></td><td title="Direct Data">120559</td><td title="Direct Data">124748</td><td title="Direct Data">114982</td><td style="width:1%;"></td><td>2512552</td><td>2490923</td><td>2371852</td><td style="width:1%;">
+
+</td><td>7967676</td><td>8643291</td><td>7977328</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '62
+                                </td><td align="left" style="width:20%;">Articles of apparel and clothing accessories, not knitted or crocheted</td><td title="Direct Data">99615</td><td title="Direct Data">111983</td><td title="Direct Data">105129</td><td style="width:1%;"></td><td>8955593</td><td>10585280</td><td>9093466</td><td style="width:1%;">
+
+</td><td>2163568</td><td>2646804</td><td>2839139</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '07
+                                </td><td align="left" style="width:20%;">Edible vegetables and certain roots and tubers</td><td title="Direct Data">92638</td><td title="Direct Data">83188</td><td title="Direct Data">72635</td><td style="width:1%;"></td><td>4312102</td><td>4375284</td><td>4891800</td><td style="width:1%;">
+
+</td><td>4927469</td><td>5041199</td><td>5335168</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '92
+                                </td><td align="left" style="width:20%;">Musical instruments; parts and accessories of such articles</td><td title="Direct Data">67245</td><td title="Direct Data">78001</td><td title="Direct Data">64406</td><td style="width:1%;"></td><td>441437</td><td>403715</td><td>366827</td><td style="width:1%;">
+
+</td><td>851690</td><td>935608</td><td>928733</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '19
+                                </td><td align="left" style="width:20%;">Preparations of cereals, flour, starch or milk; pastrycooks' products</td><td title="Direct Data">51268</td><td title="Direct Data">54862</td><td title="Direct Data">57637</td><td style="width:1%;"></td><td>4814130</td><td>5941442</td><td>6934133</td><td style="width:1%;">
+
+</td><td>4356778</td><td>4869079</td><td>5162951</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '64
+                                </td><td align="left" style="width:20%;">Footwear, gaiters and the like; parts of such articles</td><td title="Direct Data">24887</td><td title="Direct Data">29664</td><td title="Direct Data">55371</td><td style="width:1%;"></td><td>5218182</td><td>6446155</td><td>5364268</td><td style="width:1%;">
+
+</td><td>1150007</td><td>1343430</td><td>1414362</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '31
+                                </td><td align="left" style="width:20%;">Fertilisers</td><td title="Direct Data">21013</td><td title="Direct Data">41320</td><td title="Direct Data">55000</td><td style="width:1%;"></td><td>1285143</td><td>2623015</td><td>1390502</td><td style="width:1%;">
+
+</td><td>4621063</td><td>8472033</td><td>5483859</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '25
+                                </td><td align="left" style="width:20%;">Salt; sulphur; earths and stone; plastering materials, lime and cement</td><td title="Direct Data">48853</td><td title="Direct Data">47823</td><td title="Direct Data">54563</td><td style="width:1%;"></td><td>1429095</td><td>1560027</td><td>1504749</td><td style="width:1%;">
+
+</td><td>2832298</td><td>3301294</td><td>3161213</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '89
+                                </td><td align="left" style="width:20%;">Ships, boats and floating structures</td><td title="Direct Data">38167</td><td title="Direct Data">49586</td><td title="Direct Data">50147</td><td style="width:1%;"></td><td>690384</td><td>975923</td><td>1213587</td><td style="width:1%;">
+
+</td><td>2310974</td><td>2615501</td><td>3167933</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '86
+                                </td><td align="left" style="width:20%;">Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures <b>...</b></td><td title="Direct Data">24536</td><td title="Direct Data">37994</td><td title="Direct Data">49466</td><td style="width:1%;"></td><td>1052509</td><td>1185645</td><td>1688500</td><td style="width:1%;">
+
+</td><td>2653173</td><td>3522489</td><td>3615147</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '20
+                                </td><td align="left" style="width:20%;">Preparations of vegetables, fruit, nuts or other parts of plants</td><td title="Direct Data">42761</td><td title="Direct Data">42317</td><td title="Direct Data">49145</td><td style="width:1%;"></td><td>3658099</td><td>4680456</td><td>5197614</td><td style="width:1%;">
+
+</td><td>5005347</td><td>5385444</td><td>5442010</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '91
+                                </td><td align="left" style="width:20%;">Clocks and watches and parts thereof</td><td title="Direct Data">34872</td><td title="Direct Data">43775</td><td title="Direct Data">47172</td><td style="width:1%;"></td><td>2046230</td><td>2141893</td><td>2309648</td><td style="width:1%;">
+
+</td><td>1519662</td><td>1656127</td><td>1790459</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '74
+                                </td><td align="left" style="width:20%;">Copper and articles thereof</td><td title="Direct Data">43637</td><td title="Direct Data">64683</td><td title="Direct Data">46182</td><td style="width:1%;"></td><td>2544884</td><td>2291413</td><td>2081040</td><td style="width:1%;">
+
+</td><td>10394755</td><td>10050035</td><td>10949330</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '69
+                                </td><td align="left" style="width:20%;">Ceramic products</td><td title="Direct Data">52302</td><td title="Direct Data">46381</td><td title="Direct Data">45127</td><td style="width:1%;"></td><td>2231792</td><td>2597940</td><td>2010276</td><td style="width:1%;">
+
+</td><td>2291792</td><td>2488620</td><td>2329982</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '42
+                                </td><td align="left" style="width:20%;">Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles <b>...</b></td><td title="Direct Data">33464</td><td title="Direct Data">40490</td><td title="Direct Data">44248</td><td style="width:1%;"></td><td>2975976</td><td>3557976</td><td>3287523</td><td style="width:1%;">
+
+</td><td>1434670</td><td>1608212</td><td>1638216</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '56
+                                </td><td align="left" style="width:20%;">Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof</td><td title="Direct Data">69588</td><td title="Direct Data">52755</td><td title="Direct Data">44217</td><td style="width:1%;"></td><td>944958</td><td>930827</td><td>906920</td><td style="width:1%;">
+
+</td><td>2605897</td><td>2611644</td><td>2542395</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '18
+                                </td><td align="left" style="width:20%;">Cocoa and cocoa preparations</td><td title="Direct Data">33383</td><td title="Direct Data">41397</td><td title="Direct Data">42434</td><td style="width:1%;"></td><td>2995354</td><td>3252166</td><td>3732062</td><td style="width:1%;">
+
+</td><td>1979976</td><td>2024138</td><td>2098865</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '17
+                                </td><td align="left" style="width:20%;">Sugars and sugar confectionery</td><td title="Direct Data">42501</td><td title="Direct Data">41217</td><td title="Direct Data">39361</td><td style="width:1%;"></td><td>1481988</td><td>1688678</td><td>2329711</td><td style="width:1%;">
+
+</td><td>2068251</td><td>2439096</td><td>2729350</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '01
+                                </td><td align="left" style="width:20%;">Live animals</td><td title="Direct Data">43777</td><td title="Direct Data">44519</td><td title="Direct Data">39314</td><td style="width:1%;"></td><td>619289</td><td>1003858</td><td>815044</td><td style="width:1%;">
+
+</td><td>1279591</td><td>1198281</td><td>1191003</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '63
+                                </td><td align="left" style="width:20%;">Other made-up textile articles; sets; worn clothing and worn textile articles; rags</td><td title="Direct Data">34788</td><td title="Direct Data">34287</td><td title="Direct Data">37119</td><td style="width:1%;"></td><td>3157929</td><td>3027571</td><td>2610138</td><td style="width:1%;">
+
+</td><td>2892580</td><td>2939810</td><td>2618858</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '10
+                                </td><td align="left" style="width:20%;">Cereals</td><td title="Direct Data">26238</td><td title="Direct Data">23280</td><td title="Direct Data">36700</td><td style="width:1%;"></td><td>2047971</td><td>2191636</td><td>2134857</td><td style="width:1%;">
+
+</td><td>30352567</td><td>31578972</td><td>23343580</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '13
+                                </td><td align="left" style="width:20%;">Lac; gums, resins and other vegetable saps and extracts</td><td title="Direct Data">41956</td><td title="Direct Data">41909</td><td title="Direct Data">35646</td><td style="width:1%;"></td><td>277815</td><td>262767</td><td>225570</td><td style="width:1%;">
+
+</td><td>634679</td><td>693972</td><td>603222</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '03
+                                </td><td align="left" style="width:20%;">Fish and crustaceans, molluscs and other aquatic invertebrates</td><td title="Direct Data">39298</td><td title="Direct Data">34121</td><td title="Direct Data">34608</td><td style="width:1%;"></td><td>3082366</td><td>3039418</td><td>2963521</td><td style="width:1%;">
+
+</td><td>4854294</td><td>5077262</td><td>4709611</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '02
+                                </td><td align="left" style="width:20%;">Meat and edible meat offal</td><td title="Direct Data">6693</td><td title="Direct Data">5938</td><td title="Direct Data">33203</td><td style="width:1%;"></td><td>5154792</td><td>5907869</td><td>6135373</td><td style="width:1%;">
+
+</td><td>22124262</td><td>23344302</td><td>21807421</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '96
+                                </td><td align="left" style="width:20%;">Miscellaneous manufactured articles</td><td title="Direct Data">34923</td><td title="Direct Data">40396</td><td title="Direct Data">32263</td><td style="width:1%;"></td><td>2041622</td><td>2276859</td><td>2252216</td><td style="width:1%;">
+
+</td><td>2336068</td><td>2661046</td><td>2643892</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '59
+                                </td><td align="left" style="width:20%;">Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable <b>...</b></td><td title="Direct Data">52071</td><td title="Direct Data">36716</td><td title="Direct Data">30309</td><td style="width:1%;"></td><td>441829</td><td>478681</td><td>498653</td><td style="width:1%;">
+
+</td><td>2089033</td><td>2235287</td><td>2037867</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '05
+                                </td><td align="left" style="width:20%;">Products of animal origin, not elsewhere specified or included</td><td title="Direct Data">26512</td><td title="Direct Data">21653</td><td title="Direct Data">26046</td><td style="width:1%;"></td><td>257652</td><td>255072</td><td>251029</td><td style="width:1%;">
+
+</td><td>1241815</td><td>1346056</td><td>1396492</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '37
+                                </td><td align="left" style="width:20%;">Photographic or cinematographic goods</td><td title="Direct Data">25789</td><td title="Direct Data">28434</td><td title="Direct Data">23973</td><td style="width:1%;"></td><td>368139</td><td>393143</td><td>381209</td><td style="width:1%;">
+
+</td><td>2293364</td><td>2195023</td><td>2127650</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '36
+                                </td><td align="left" style="width:20%;">Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations</td><td title="Direct Data">17999</td><td title="Direct Data">19344</td><td title="Direct Data">23773</td><td style="width:1%;"></td><td>55062</td><td>82542</td><td>58578</td><td style="width:1%;">
+
+</td><td>656457</td><td>750935</td><td>878798</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '54
+                                </td><td align="left" style="width:20%;">Man-made filaments; strip and the like of man-made textile materials</td><td title="Direct Data">24352</td><td title="Direct Data">22948</td><td title="Direct Data">22938</td><td style="width:1%;"></td><td>814037</td><td>765198</td><td>677058</td><td style="width:1%;">
+
+</td><td>1469319</td><td>1633167</td><td>1532639</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '65
+                                </td><td align="left" style="width:20%;">Headgear and parts thereof</td><td title="Direct Data">18938</td><td title="Direct Data">25441</td><td title="Direct Data">18933</td><td style="width:1%;"></td><td>519838</td><td>565059</td><td>470289</td><td style="width:1%;">
+
+</td><td>363053</td><td>520352</td><td>519846</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '55
+                                </td><td align="left" style="width:20%;">Man-made staple fibres</td><td title="Direct Data">13267</td><td title="Direct Data">18908</td><td title="Direct Data">18145</td><td style="width:1%;"></td><td>566378</td><td>555108</td><td>461032</td><td style="width:1%;">
+
+</td><td>2092227</td><td>2320179</td><td>2210887</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '04
+                                </td><td align="left" style="width:20%;">Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere <b>...</b></td><td title="Direct Data">20775</td><td title="Direct Data">13113</td><td title="Direct Data">17845</td><td style="width:1%;"></td><td>3705905</td><td>4107193</td><td>4445116</td><td style="width:1%;">
+
+</td><td>6483005</td><td>7910015</td><td>6661220</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '58
+                                </td><td align="left" style="width:20%;">Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery</td><td title="Direct Data">8498</td><td title="Direct Data">12326</td><td title="Direct Data">17483</td><td style="width:1%;"></td><td>321457</td><td>297938</td><td>265835</td><td style="width:1%;">
+
+</td><td>403747</td><td>414943</td><td>428342</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '24
+                                </td><td align="left" style="width:20%;">Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, <b>...</b></td><td title="Direct Data">209</td><td title="Direct Data">11448</td><td title="Direct Data">16716</td><td style="width:1%;"></td><td>412405</td><td>1045947</td><td>1802477</td><td style="width:1%;">
+
+</td><td>1166032</td><td>1229489</td><td>1422932</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '47
+                                </td><td align="left" style="width:20%;">Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or <b>...</b></td><td title="Direct Data">26044</td><td title="Direct Data">19469</td><td title="Direct Data">16634</td><td style="width:1%;"></td><td>597930</td><td>786498</td><td>600825</td><td style="width:1%;">
+
+</td><td>9575720</td><td>10850826</td><td>8769626</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '11
+                                </td><td align="left" style="width:20%;">Products of the milling industry; malt; starches; inulin; wheat gluten</td><td title="Direct Data">19650</td><td title="Direct Data">23023</td><td title="Direct Data">16603</td><td style="width:1%;"></td><td>535215</td><td>622236</td><td>688168</td><td style="width:1%;">
+
+</td><td>1045682</td><td>1150195</td><td>1197838</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '16
+                                </td><td align="left" style="width:20%;">Preparations of meat, of fish, of crustaceans, molluscs or other aquatic invertebrates, or <b>...</b></td><td title="Direct Data">26387</td><td title="Direct Data">31510</td><td title="Direct Data">13211</td><td style="width:1%;"></td><td>4267730</td><td>5164147</td><td>5406020</td><td style="width:1%;">
+
+</td><td>2341858</td><td>2564607</td><td>2400752</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '57
+                                </td><td align="left" style="width:20%;">Carpets and other textile floor coverings</td><td title="Direct Data">10930</td><td title="Direct Data">18609</td><td title="Direct Data">13087</td><td style="width:1%;"></td><td>1297646</td><td>1182014</td><td>1113928</td><td style="width:1%;">
+
+</td><td>776609</td><td>777073</td><td>753219</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '15
+                                </td><td align="left" style="width:20%;">Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; <b>...</b></td><td title="Direct Data">120547</td><td title="Direct Data">50237</td><td title="Direct Data">11455</td><td style="width:1%;"></td><td>2461508</td><td>3457027</td><td>3032235</td><td style="width:1%;">
+
+</td><td>4279475</td><td>4340585</td><td>2748547</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '09
+                                </td><td align="left" style="width:20%;">Coffee, tea, maté and spices</td><td title="Direct Data">16762</td><td title="Direct Data">14544</td><td title="Direct Data">10951</td><td style="width:1%;"></td><td>1655260</td><td>2118449</td><td>2029114</td><td style="width:1%;">
+
+</td><td>1096175</td><td>1489801</td><td>1481480</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '67
+                                </td><td align="left" style="width:20%;">Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles <b>...</b></td><td title="Direct Data">9958</td><td title="Direct Data">13350</td><td title="Direct Data">9933</td><td style="width:1%;"></td><td>354971</td><td>405143</td><td>301492</td><td style="width:1%;">
+
+</td><td>131555</td><td>159929</td><td>143078</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '80
+                                </td><td align="left" style="width:20%;">Tin and articles thereof</td><td title="Direct Data">3233</td><td title="Direct Data">13303</td><td title="Direct Data">9834</td><td style="width:1%;"></td><td>151759</td><td>162886</td><td>111296</td><td style="width:1%;">
+
+</td><td>238451</td><td>261297</td><td>244797</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '41
+                                </td><td align="left" style="width:20%;">Raw hides and skins (other than furskins) and leather</td><td title="Direct Data">5600</td><td title="Direct Data">7623</td><td title="Direct Data">7690</td><td style="width:1%;"></td><td>177299</td><td>201775</td><td>166039</td><td style="width:1%;">
+
+</td><td>1863084</td><td>1762333</td><td>1550763</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '79
+                                </td><td align="left" style="width:20%;">Zinc and articles thereof</td><td title="Direct Data">2627</td><td title="Direct Data">3262</td><td title="Direct Data">4460</td><td style="width:1%;"></td><td>324652</td><td>364553</td><td>272826</td><td style="width:1%;">
+
+</td><td>408976</td><td>542242</td><td>383422</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '60
+                                </td><td align="left" style="width:20%;">Knitted or crocheted fabrics</td><td title="Direct Data">5339</td><td title="Direct Data">3597</td><td title="Direct Data">3608</td><td style="width:1%;"></td><td>225071</td><td>213451</td><td>169210</td><td style="width:1%;">
+
+</td><td>821834</td><td>905325</td><td>751910</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '51
+                                </td><td align="left" style="width:20%;">Wool, fine or coarse animal hair; horsehair yarn and woven fabric</td><td title="Direct Data">2298</td><td title="Direct Data">2496</td><td title="Direct Data">2923</td><td style="width:1%;"></td><td>340244</td><td>389584</td><td>357661</td><td style="width:1%;">
+
+</td><td>61276</td><td>62325</td><td>62071</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '52
+                                </td><td align="left" style="width:20%;">Cotton</td><td title="Direct Data">3427</td><td title="Direct Data">3274</td><td title="Direct Data">2101</td><td style="width:1%;"></td><td>286698</td><td>314247</td><td>267847</td><td style="width:1%;">
+
+</td><td>7129541</td><td>10744033</td><td>7296980</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '14
+                                </td><td align="left" style="width:20%;">Vegetable plaiting materials; vegetable products not elsewhere specified or included</td><td title="Direct Data">625</td><td title="Direct Data">459</td><td title="Direct Data">1024</td><td style="width:1%;"></td><td>48610</td><td>45375</td><td>33781</td><td style="width:1%;">
+
+</td><td>32506</td><td>31254</td><td>25974</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '53
+                                </td><td align="left" style="width:20%;">Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn</td><td title="Direct Data">804</td><td title="Direct Data">721</td><td title="Direct Data">974</td><td style="width:1%;"></td><td>144862</td><td>151681</td><td>119149</td><td style="width:1%;">
+
+</td><td>21699</td><td>23910</td><td>23615</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '43
+                                </td><td align="left" style="width:20%;">Furskins and artificial fur; manufactures thereof</td><td title="Direct Data">984</td><td title="Direct Data">1441</td><td title="Direct Data">560</td><td style="width:1%;"></td><td>49636</td><td>55110</td><td>51469</td><td style="width:1%;">
+
+</td><td>142967</td><td>122462</td><td>101152</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '66
+                                </td><td align="left" style="width:20%;">Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof</td><td title="Direct Data">251</td><td title="Direct Data">340</td><td title="Direct Data">376</td><td style="width:1%;"></td><td>133547</td><td>157894</td><td>98527</td><td style="width:1%;">
+
+</td><td>44899</td><td>57514</td><td>52977</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '50
+                                </td><td align="left" style="width:20%;">Silk</td><td title="Direct Data">302</td><td title="Direct Data">309</td><td title="Direct Data">260</td><td style="width:1%;"></td><td>25012</td><td>30050</td><td>28635</td><td style="width:1%;">
+
+</td><td>5538</td><td>5445</td><td>6626</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '06
+                                </td><td align="left" style="width:20%;">Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage</td><td title="Direct Data">523</td><td title="Direct Data">590</td><td title="Direct Data">240</td><td style="width:1%;"></td><td>1803765</td><td>1907732</td><td>1812274</td><td style="width:1%;">
+
+</td><td>520814</td><td>535762</td><td>489733</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '78
+                                </td><td align="left" style="width:20%;">Lead and articles thereof</td><td title="Direct Data">288</td><td title="Direct Data">703</td><td title="Direct Data">228</td><td style="width:1%;"></td><td>566325</td><td>450942</td><td>452156</td><td style="width:1%;">
+
+</td><td>270871</td><td>192932</td><td>235419</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '46
+                                </td><td align="left" style="width:20%;">Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork</td><td title="Direct Data">228</td><td title="Direct Data">284</td><td title="Direct Data">224</td><td style="width:1%;"></td><td>163027</td><td>159118</td><td>91888</td><td style="width:1%;">
+
+</td><td>27025</td><td>21764</td><td>31278</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:6%;">
+                            '45
+                                </td><td align="left" style="width:20%;">Cork and articles of cork</td><td title="Direct Data">49</td><td title="Direct Data">88</td><td title="Direct Data">20</td><td style="width:1%;"></td><td>39461</td><td>75252</td><td>84112</td><td style="width:1%;">
+
+</td><td>21103</td><td>26438</td><td>26842</td>
+		</tr>
+	</table>
+</div></body></html>
