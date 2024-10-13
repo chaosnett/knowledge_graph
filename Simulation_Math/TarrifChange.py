@@ -2,6 +2,7 @@ from knowledge_graph.Graphs.ConcreteGraphs.MainNetwork import MainNetwork
 from knowledge_graph.Enums.product_types import Product
 from knowledge_graph.Nodes.CountryNode import CountryNode
 from knowledge_graph.Concrete_Relationships.ImportProductRelationship import ImportProductRelationship
+from knowledge_graph.Concrete_Relationships.ExportProductRelationship import ExportProductRelationship
 
 class TariffChange:
     def __init__(self, Mc, Xc, Mcp, Xcp, Tcp, graph : MainNetwork):
@@ -12,6 +13,7 @@ class TariffChange:
         self.Tcp = Tcp  # Original tariff rate on product p
         self.graph = graph
 
+
     # apply import tarrif to all relations for a country with product, and apply tarrif and 
     # update countries total imports && trade balance
     def apply_tariff_change(self, country_name: str, product: Product, delta_tariff: float):
@@ -21,7 +23,7 @@ class TariffChange:
                 country_node = node
                 break
         if not country_node:
-            print(f"Country '{country_name}' not found in the graph.")
+            print(f"Country '{country_name}' doesnt exist")
             return
         affected_relationships = []
         
@@ -63,11 +65,8 @@ class TariffChange:
 
         country_node.total_imports = total_imports
         trade_balance = total_exports - total_imports
-
-        print(f"Updated Country Trade Balance for {country_node.name}:")
-        print(f"  Total Imports: {total_imports}")
-        print(f"  Total Exports: {total_exports}")
-        print(f"  Trade Balance: {trade_balance}\n")
+        return total_imports, total_exports, trade_balance
+        
 
     def calculate_new_tariff_rate(self, delta_Tcp):
         self.delta_Tcp = delta_Tcp
