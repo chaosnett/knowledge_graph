@@ -10,10 +10,8 @@ class ImportRelationship(RelationshipNode, ABC):
         self.product = product
         self.amount = amount
         
-    @abstractmethod
-    def import_product_or_service(self):
-        pass
-
     @abstractmethod    
     def get_relationship_type(self):
         pass
+
+    

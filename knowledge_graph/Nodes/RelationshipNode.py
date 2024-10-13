@@ -18,7 +18,3 @@ class RelationshipNode(ABC):
     def get_relationship_type(self):
         pass
     
-
-
-#ReificationRelationshipNode --> child of RelationShipNode
-# 
